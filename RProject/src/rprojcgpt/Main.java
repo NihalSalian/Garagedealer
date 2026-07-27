@@ -5,6 +5,7 @@ import java.util.Scanner;
 // Base class representing a Vehicle
 class Vehicle {
     String make;
+ //  String nihal;
     String model;
     int year;
     double price;
